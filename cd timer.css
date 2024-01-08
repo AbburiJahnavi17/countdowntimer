@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+}
+nav p{
+    text-align:end;
+    font-size: 25px;
+    padding:5px;
+    border: 3px solid lightgrey;
+    width:150px;
+}
+nav h1{
+    text-align:center;
+}
+nav{
+   background-color: grey;
+   padding:20px;
+   height:70px;
+}
+#abc{ 
+    float: right;
+}
+body{
+    background-color:lightgrey;
+}
